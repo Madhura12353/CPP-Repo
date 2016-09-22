@@ -1,7 +1,7 @@
 // Read and Sum of two integers
 // Project Name: ReadAndSum
 // Programmer: Madhura Kulkarni
-// Last Modified Date and Time: Sep 20th 2016, 11:23pm
+// Last Modified Date and Time: Sep 21th 2016, 10:25pm
 
 #include<iostream>
 using namespace std;
